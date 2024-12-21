@@ -1,3 +1,7 @@
+## License
+
+This project is free and unencumbered software released into the public domain. For more information, see the [LICENSE](./LICENSE) file.
+
 ## A Complete guide to learn this project step by step
 
 # Files Structure
@@ -22,4 +26,6 @@ Step -8, Setup prettier
 ![image](https://github.com/user-attachments/assets/6406e6a6-105f-47f8-b785-799d185a394b)
 
 
+## License
 
+This project is free and unencumbered software released into the public domain. For more information, see the [LICENSE](./LICENSE) file.
