@@ -2,7 +2,7 @@ A Complete guide to learn this project step by step
 
 ![image](https://github.com/user-attachments/assets/e6415bdc-c464-4985-8f54-cf654f208e97)
 
-![image](https://github.com/user-attachments/assets/f31e6c69-6d60-4d6c-84f4-b274d220811c)
+![image](https://github.com/user-attachments/assets/64ef5eee-40e9-4db0-a02f-5db9c0d52c14)
 
 ![image](https://github.com/user-attachments/assets/405e981c-0550-4cdd-869c-54b1fe2933cb)
 
