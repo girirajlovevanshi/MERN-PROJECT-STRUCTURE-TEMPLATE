@@ -16,6 +16,8 @@ Step-6, Run Server
 ![image](https://github.com/user-attachments/assets/47192feb-4dca-44b0-9325-170e8f317cb4)
 Step-7, Run Server
 ![image](https://github.com/user-attachments/assets/9d60f671-f9f2-41b6-87a2-90e8863e2cb2)
+Step -8, Setup prettier
+![image](https://github.com/user-attachments/assets/6406e6a6-105f-47f8-b785-799d185a394b)
 
 
 
