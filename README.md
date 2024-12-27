@@ -24,8 +24,12 @@ Step-7, Run Server
 ![image](https://github.com/user-attachments/assets/9d60f671-f9f2-41b6-87a2-90e8863e2cb2)
 Step -8, Setup prettier
 ![image](https://github.com/user-attachments/assets/6406e6a6-105f-47f8-b785-799d185a394b)
-Step -9, Setup api Handler
-![image](https://github.com/user-attachments/assets/159d2dea-ce8e-4771-a62a-487d426e70ab)
+Step -9, Setup Api Response Handler
+![image]()
+Step -10, Setup Api Errors Handler
+![image]()
+Step -11, Setup Async Handler
+![image]()
 
 
 
