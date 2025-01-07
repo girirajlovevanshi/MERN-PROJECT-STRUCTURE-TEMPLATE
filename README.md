@@ -35,7 +35,7 @@ Step -8, Setup prettier
 ![image](https://github.com/user-attachments/assets/6406e6a6-105f-47f8-b785-799d185a394b)
 
 Step -9, Setup Api Response Handler
-![image]()
+![image](https://github.com/user-attachments/assets/e6a8f9b0-71d2-46d2-977e-2a2c2d9bf62a)
 
 Step -10, Setup Api Errors Handler
 ![image]()
